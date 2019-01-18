@@ -1,4 +1,3 @@
-# tars-discord
+# ava-discord
 
-Tars is the Discord bot which is run in the Ubiq Discord Server.
-
+Ava is a Discord bot which is run in the Ubiq Discord Server.
